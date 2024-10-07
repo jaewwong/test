@@ -1,0 +1,4 @@
+ns1:
+  minimal_param_node:
+    ros__parameters:
+      my_parameter: "asdasdsad"
